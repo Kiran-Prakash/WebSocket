@@ -1,0 +1,7 @@
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\bin\Debug\Youtube.WebsocketsConsole.exe.config
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\bin\Debug\Youtube.WebsocketsConsole.exe
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\bin\Debug\Youtube.WebsocketsConsole.pdb
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\obj\Debug\Youtube.WebsocketsConsole.csproj.AssemblyReference.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\obj\Debug\Youtube.WebsocketsConsole.csproj.CoreCompileInputs.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\obj\Debug\Youtube.WebsocketsConsole.exe
+D:\UdemyTrainings\Youtube.Sockets\Youtube.WebsocketsConsole\obj\Debug\Youtube.WebsocketsConsole.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube.Sockets", "Youtube.Sockets\Youtube.Sockets.csproj", "{2E1EFEB7-191A-48FB-A7CD-69656762BF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube.WebsocketsConsole", "Youtube.WebsocketsConsole\Youtube.WebsocketsConsole.csproj", "{70CD2C10-1643-47B2-8E4E-C0DDB19D11E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1EFEB7-191A-48FB-A7CD-69656762BF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1EFEB7-191A-48FB-A7CD-69656762BF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1EFEB7-191A-48FB-A7CD-69656762BF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1EFEB7-191A-48FB-A7CD-69656762BF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CD2C10-1643-47B2-8E4E-C0DDB19D11E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CD2C10-1643-47B2-8E4E-C0DDB19D11E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CD2C10-1643-47B2-8E4E-C0DDB19D11E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CD2C10-1643-47B2-8E4E-C0DDB19D11E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A512F9-091A-4DC9-860F-79510A72A84E}
+	EndGlobalSection
+EndGlobal

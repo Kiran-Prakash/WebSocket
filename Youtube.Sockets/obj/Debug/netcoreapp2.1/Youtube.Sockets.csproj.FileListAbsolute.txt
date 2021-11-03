@@ -1,0 +1,16 @@
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\bin\Debug\netcoreapp2.1\Youtube.Sockets.deps.json
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\bin\Debug\netcoreapp2.1\Youtube.Sockets.runtimeconfig.json
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\bin\Debug\netcoreapp2.1\Youtube.Sockets.runtimeconfig.dev.json
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\bin\Debug\netcoreapp2.1\Youtube.Sockets.dll
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\bin\Debug\netcoreapp2.1\Youtube.Sockets.pdb
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.csproj.AssemblyReference.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.AssemblyInfoInputs.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.AssemblyInfo.cs
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.csproj.CoreCompileInputs.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.RazorAssemblyInfo.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.RazorAssemblyInfo.cs
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.RazorTargetAssemblyInfo.cache
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.dll
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.pdb
+D:\UdemyTrainings\Youtube.Sockets\Youtube.Sockets\obj\Debug\netcoreapp2.1\Youtube.Sockets.genruntimeconfig.cache
